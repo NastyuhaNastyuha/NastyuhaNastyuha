@@ -2,7 +2,7 @@
 <h3 align="center"> QA инженер </h3>
 
 ### Связаться со мной можно тут:
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tarabne@gmail.com)](mailto:przh.17@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:przh.17@gmail.com)](mailto:przh.17@gmail.com)
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white)](https://t.me/przh17)
 
 ### Мои инструменты:
@@ -24,7 +24,7 @@
 
 ### Мои проекты:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NastyuhaNastyuha&repo=qa_guru_27_hw_14&theme=shadow_red)](https://github.com/NastyuhaNastyuha/qa_guru_27_hw_14)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NastyuhaNastyuha&repo=qa_guru_27_dodo_ui_tests&theme=shadow_red)](https://github.com/NastyuhaNastyuha/qa_guru_27_dodo_ui_tests)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NastyuhaNastyuha&repo=qa_guru_27_reqres_api_tests&theme=shadow_green)](https://github.com/NastyuhaNastyuha/qa_guru_27_reqres_api_tests)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NastyuhaNastyuha&repo=qa_guru_27_lesson_20_1&theme=shadow_blue)](https://github.com/NastyuhaNastyuha/qa_guru_27_lesson_20_1)
