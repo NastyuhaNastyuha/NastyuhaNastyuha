@@ -27,7 +27,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NastyuhaNastyuha&repo=qa_guru_27_dodo_ui_tests&theme=shadow_red)](https://github.com/NastyuhaNastyuha/qa_guru_27_dodo_ui_tests)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NastyuhaNastyuha&repo=qa_guru_27_reqres_api_tests&theme=shadow_green)](https://github.com/NastyuhaNastyuha/qa_guru_27_reqres_api_tests)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NastyuhaNastyuha&repo=qa_guru_27_lesson_20_1&theme=shadow_blue)](https://github.com/NastyuhaNastyuha/qa_guru_27_lesson_20_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NastyuhaNastyuha&repo=qa_guru_27_wiki_mobile_tests&theme=shadow_blue)](https://github.com/NastyuhaNastyuha/qa_guru_27_wiki_mobile_tests)
 
 #    
 ###  
